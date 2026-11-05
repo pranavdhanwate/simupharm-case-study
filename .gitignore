@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Environment Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+
+# Editor Settings
+.vscode/
+.idea/
+
+# Large binaries / proprietary assets
+*.dll
+*.exe
+*.bin
+*.so
